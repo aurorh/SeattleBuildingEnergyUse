@@ -10,7 +10,7 @@ https://nbviewer.org/github/aurorh/SeattleBuildingEnergyUse/blob/main/mapfinl.ip
 
 https://data-seattlecitygis.opendata.arcgis.com/datasets/SeattleCityGIS::zip-codes/about
 
-**Link to the Building Energy Usage Data:**
+**Link to the Building Energy Benchmarking Data:**
 
 https://data.seattle.gov/dataset/2020-Building-Energy-Benchmarking/auez-gz8p
 
