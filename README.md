@@ -14,6 +14,6 @@ https://data-seattlecitygis.opendata.arcgis.com/datasets/SeattleCityGIS::zip-cod
 
 https://data.seattle.gov/dataset/2020-Building-Energy-Benchmarking/auez-gz8p
 
-here is what is makes:
+here is screenshot of what is makes:
 
 <img width="1690" alt="Screen Shot 2022-05-25 at 11 50 43 PM" src="https://user-images.githubusercontent.com/98128786/170433930-467fe399-41a1-47f1-a2a7-2caa7b15b4f7.png">
